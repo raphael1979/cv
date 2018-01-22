@@ -351,9 +351,9 @@ ul#nav li.current a { color: #F06000; }
  -webkit-animation: html5 2s ease;
 }
 .jquery {
- width: 50%;
- -moz-animation: jquery 2s ease;
- -webkit-animation: jquery 2s ease;
+  width: 60%;
+  -moz-animation: jquery 2s ease;
+  -webkit-animation: jquery 2s ease;
 }
 
 @-moz-keyframes photoshop {
